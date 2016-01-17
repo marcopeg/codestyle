@@ -1,0 +1,2 @@
+# codestyle
+store linting configurations
